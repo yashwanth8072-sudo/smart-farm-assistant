@@ -1,0 +1,4 @@
+[
+  {"device_id":"gate-cam-01","event_type":"possible_animal_intrusion","confidence":0.82,"zone":"north-boundary","timestamp":"2026-10-26T02:12:00Z"},
+  {"device_id":"gate-cam-02","event_type":"motion_detected","confidence":null,"zone":"east-boundary","timestamp":"2026-10-26T03:05:00Z"}
+]
