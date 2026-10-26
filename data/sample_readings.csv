@@ -1,0 +1,4 @@
+device_id,soil_moisture,temperature_c,humidity_pct,ph,timestamp
+soil-node-01,27.5,29.2,64,6.4,2026-10-26T08:30:00Z
+soil-node-01,34.1,28.7,66,6.5,2026-10-26T09:00:00Z
+soil-node-02,22.8,31.0,58,6.2,2026-10-26T09:15:00Z
